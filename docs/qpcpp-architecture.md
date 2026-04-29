@@ -296,5 +296,5 @@ namespace QP { namespace QF {
 | `Test/TestController.hpp` | TestObserver, TestStep, makeTestReader, verifyStep, g_* |
 | `main.cpp` | Instàncies globals, inicialització, start dels AOs |
 | `qp_config.hpp` | Tunables del framework (`QF_MAX_ACTIVE`, `QF_MAX_EPOOL`) |
-| `docs/sistema.drawio` | Diagrama d'arquitectura del sistema |
+| `docs/ControlEntrades.drawio` | Diagrama d'arquitectura del sistema |
 | `docs/drawio-conventions.md` | Convencions visuals dels diagrames |

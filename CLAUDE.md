@@ -58,10 +58,10 @@ Output: `build/app.exe`. The script compiles `mongoose/mongoose.c` with `gcc` th
 - `DigitalEdgeDetector/SharedState.h` — the shared struct between QV and Mongoose threads
 - `InputConfig.h` — `InputConfig` struct: `id`, `logic_positive`, `detection_always`, `linked_outputs`
 - `Test/TestController.hpp` — TestObserver AO + verifyStep() + makeTestReader() + g_* globals
-- `docs/sistema.drawio` — system architecture diagram
+- `docs/ControlEntrades.drawio` — system architecture diagram
 - `qp_config.hpp` — QP tunables (`QF_MAX_ACTIVE=32`, `QF_MAX_EPOOL=3`)
 
-El diagrama de referència és `docs/sistema.drawio`. Les convencions visuals (colors, fletxes, etiquetes, estructura dels nodes) estan documentades a [`docs/drawio-conventions.md`](docs/drawio-conventions.md).
+El diagrama de referència és `docs/ControlEntrades.drawio`. Les convencions visuals (colors, fletxes, etiquetes, estructura dels nodes) estan documentades a [`docs/drawio-conventions.md`](docs/drawio-conventions.md).
 
 ## Convencions
 
